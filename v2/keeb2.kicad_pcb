@@ -246,7 +246,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_COMMA"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "10c48878-fde7-4775-9be5-240e78633eef")
@@ -455,7 +455,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_0"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "43ef60b7-8bea-490a-af41-911d5d7de76e")
@@ -664,7 +664,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_E"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "f5379311-4747-4bfc-80b1-e796bdc3e22f")
@@ -873,7 +873,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_Q"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "9f7353f4-c457-4a01-96a5-2a36bf34565b")
@@ -1082,7 +1082,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_LEFT_SHIFT"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "08d28611-6e44-4301-857b-1867f48fa259")
@@ -1291,7 +1291,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_RIGHT"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "a9882236-7474-4125-ad65-d055482d17cb")
@@ -1500,7 +1500,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_7"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "4b7bd7c1-0cc3-4d96-a6ed-c7789dedd64c")
@@ -1709,7 +1709,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_SEMICOLON"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "0ca430fe-82a9-4d6b-848f-2867773740e7")
@@ -1918,7 +1918,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_EQUAL"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "4ad58649-60c5-41e7-84c3-b936da00e791")
@@ -2127,7 +2127,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_8"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "c51df670-1e08-4e93-9cbc-91f85ae23982")
@@ -2336,7 +2336,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_RIGHT_CTRL"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "01084d4d-5bbb-42ec-870f-cccb722f8ffb")
@@ -2545,7 +2545,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_LEFT"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "dc962eb3-7456-418b-8c2c-78d3680fb57e")
@@ -2754,7 +2754,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_U"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "970af52e-6d1c-441d-adaa-aed287d8c385")
@@ -2963,7 +2963,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_M"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "5775d25c-5603-44fa-95ba-d2bc5960d11c")
@@ -3172,7 +3172,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_MINUS"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "d1fe4574-08e8-4fc3-a136-a251d1ae7ace")
@@ -3381,7 +3381,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_RIGHT_BRACKET"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "d6398d62-76d7-44cc-aac7-03a18273f73b")
@@ -3590,7 +3590,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_BACKSPACE"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "bcd2f993-81cc-43fc-a779-4370034cda6f")
@@ -3799,7 +3799,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_ESCAPE"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "ca51ee33-0d07-4b9a-955d-3647ba83639a")
@@ -4008,7 +4008,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_W"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "7d48146d-fffc-42e1-8252-aec5bec80106")
@@ -4217,7 +4217,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_LEFT_GUI"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "21b69d26-ea67-4f37-9e8d-f5bc7fd52c65")
@@ -4426,7 +4426,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_UP"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "6fe33503-c9b0-4a07-8542-f4778a007e49")
@@ -5058,7 +5058,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_LEFT_CTRL"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "66e0ae94-4546-4e60-a7ae-2ed6377ffeea")
@@ -5267,7 +5267,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_QUOTE"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "0c24ad2c-3807-4c2a-af47-36d2ead2b160")
@@ -5476,7 +5476,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_H"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "e6d277fe-4cdc-477f-abb9-4eb86ef4878e")
@@ -5685,7 +5685,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_NONUS_HASH"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "02559fa4-bb1e-4f5f-afe5-881d56309bc0")
@@ -5894,7 +5894,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_B"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "67e62863-60b2-4f00-83b6-e5868e2ea617")
@@ -6103,7 +6103,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_DOWN"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "a4973377-4fdf-4cbc-896a-4fda6f497c6f")
@@ -6312,7 +6312,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_CAPS"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "8441d37c-eac2-4ec5-b6e7-eb7f271ebcac")
@@ -6521,7 +6521,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_3"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "5ae77ad0-982a-4375-adf6-5668e47f46af")
@@ -6730,7 +6730,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_2"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "8bc23e27-4f41-41f5-8630-3a1bb1e59921")
@@ -6939,7 +6939,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_RIGHT_ALT"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "b17e4c4f-c960-4d46-a645-c4deb451aac0")
@@ -7148,7 +7148,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_TAB"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "188de663-7b79-44fb-9076-95d50d15e885")
@@ -7357,7 +7357,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_RIGHT_GUI"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "b43c2b84-902c-4184-b2a2-923b5a62b0e4")
@@ -7817,7 +7817,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_N"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "478d6c0c-c61f-426a-95f4-f5b0d679fad4")
@@ -8026,7 +8026,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_DOT"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "c850f0b2-17e7-4381-b106-cec8f0755356")
@@ -8235,7 +8235,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_A"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "338102fe-63c0-4908-a710-787ff21dbf50")
@@ -8444,7 +8444,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_RIGHT_SHIFT"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "20c3232c-adc0-43c9-985d-b85344ef2f53")
@@ -8653,7 +8653,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_P"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "15f5387f-d6ef-473a-b126-ec08305dc79d")
@@ -8862,7 +8862,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_GRAVE"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "0c1db5aa-d808-490d-a7f0-74890fb019ba")
@@ -9071,7 +9071,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_ENTER"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "56e6075e-672c-4cc4-ba25-f1e7f4eb8169")
@@ -9448,7 +9448,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_X"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "2d9301e6-aa99-4d74-b868-02eeeaadc958")
@@ -9657,7 +9657,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_R"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "dca58cd5-6d1a-4c4c-b6d6-726813b7d3c8")
@@ -9866,7 +9866,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_L"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "4de4541e-8201-4b6e-b8fc-f7f7f5b6c2d1")
@@ -10075,7 +10075,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_5"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "9f1c5447-8a9e-4a61-97b1-b9148e51223a")
@@ -10284,7 +10284,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_6"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "b71985ec-6f76-46fe-bd09-b43039c25e1c")
@@ -10493,7 +10493,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_DEL"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "a38513d0-aa50-4c72-ba45-25440a838f38")
@@ -10702,7 +10702,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_SPACE"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "d800e647-c4f7-4cf2-955d-6d8279c32116")
@@ -10911,7 +10911,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_SLASH"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "1020873f-2f67-4219-9c37-d70c664ff32e")
@@ -11120,7 +11120,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_F"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "76679f82-2f84-4786-a71c-a734dd137a7b")
@@ -11329,7 +11329,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_PAGE_UP"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "f907e028-d65e-4d5c-b3cb-68ea0debf1a3")
@@ -11538,7 +11538,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_K"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "60c35662-56e9-4814-af96-bf0f92a52de1")
@@ -11747,7 +11747,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_J"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "434680ef-919f-439e-986e-1d912c57b88d")
@@ -11956,7 +11956,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_LEFT_BRACKET"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "ead8c401-aa6d-4f2d-affc-6e5d9aa399d2")
@@ -12165,7 +12165,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_4"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "68438b72-9271-44f1-824e-82a0327a7500")
@@ -12374,7 +12374,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_C"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "69a35e69-1ce6-487e-8f7a-4cdbe0c179ea")
@@ -12583,7 +12583,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_I"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "d9f13e85-1172-475a-a9f8-ac1d1edf7847")
@@ -12792,7 +12792,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_V"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "d38e66d8-2649-4464-93a8-324568fa09f8")
@@ -13001,7 +13001,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_Z"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "a402810d-b000-44bd-b11e-1cdeb07565a9")
@@ -13210,7 +13210,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_D"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "6d859dd4-e5e1-44a4-bbdb-4eba1f7c3a2f")
@@ -13419,7 +13419,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_O"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "bfcaa410-e265-48c8-b28b-585a4933d933")
@@ -13628,7 +13628,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_T"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "1af45f36-a0f9-454f-8b5c-8b1ed71a45b5")
@@ -13837,7 +13837,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_Y"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "c8044581-c0d0-401c-9038-b0e0d1b42aed")
@@ -14046,7 +14046,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_9"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "cac2fdeb-7857-4f90-91fc-b9aec6358a41")
@@ -14255,7 +14255,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_1"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "eb7173cc-81a9-4c99-a25d-8a2efd00ab24")
@@ -14464,7 +14464,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_PAGE_DOWN"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "88ee414d-2de7-4684-ac1f-a4b2a0817521")
@@ -14673,7 +14673,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_LEFT_ALT"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "b0456729-6c0f-4eec-ad68-076a2bed7702")
@@ -14882,7 +14882,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_G"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "e9910cf1-9766-4331-8089-9f95480cdc47")
@@ -15091,7 +15091,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KC_S"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
 			(uuid "8feed95d-d441-4a5f-ab20-6dcd7bc8443b")
