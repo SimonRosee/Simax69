@@ -1,0 +1,6 @@
+[submodule "v2/Keebio-Parts.pretty"]
+	path = v2/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty
+[submodule "v2/Type-C.pretty"]
+	path = v2/Type-C.pretty
+	url = https://github.com/ai03-2725/Type-C.pretty
