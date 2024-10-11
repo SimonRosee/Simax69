@@ -2924,7 +2924,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 121.92 76.2 0)
 			(effects
 				(font
@@ -2992,7 +2992,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 93.98 76.2 0)
 			(effects
 				(font
@@ -3236,7 +3236,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-6.25U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_6.25u_PCB"
 			(at 149.86 140.97 0)
 			(effects
 				(font
@@ -3392,7 +3392,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 247.65 54.61 0)
 			(effects
 				(font
@@ -3548,7 +3548,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 191.77 54.61 0)
 			(effects
 				(font
@@ -3616,7 +3616,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 163.83 119.38 0)
 			(effects
 				(font
@@ -3684,7 +3684,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 149.86 76.2 0)
 			(effects
 				(font
@@ -3752,7 +3752,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1.25U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB"
 			(at 107.95 140.97 0)
 			(effects
 				(font
@@ -3820,7 +3820,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 275.59 140.97 0)
 			(effects
 				(font
@@ -3888,7 +3888,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 219.71 140.97 0)
 			(effects
 				(font
@@ -4396,7 +4396,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 233.68 76.2 0)
 			(effects
 				(font
@@ -4464,7 +4464,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1.25U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB"
 			(at 80.01 140.97 0)
 			(effects
 				(font
@@ -4620,7 +4620,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 135.89 54.61 0)
 			(effects
 				(font
@@ -4864,7 +4864,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 191.77 97.79 0)
 			(effects
 				(font
@@ -4932,7 +4932,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 205.74 97.79 0)
 			(effects
 				(font
@@ -5000,7 +5000,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1.25U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB"
 			(at 93.98 140.97 0)
 			(effects
 				(font
@@ -5068,7 +5068,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1.75U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_PCB"
 			(at 247.65 119.38 0)
 			(effects
 				(font
@@ -5136,7 +5136,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 163.83 97.79 0)
 			(effects
 				(font
@@ -5204,7 +5204,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 163.83 76.2 0)
 			(effects
 				(font
@@ -5536,7 +5536,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 93.98 119.38 0)
 			(effects
 				(font
@@ -5692,7 +5692,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 247.65 97.79 0)
 			(effects
 				(font
@@ -5848,7 +5848,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 205.74 76.2 0)
 			(effects
 				(font
@@ -6532,7 +6532,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 233.68 97.79 0)
 			(effects
 				(font
@@ -6688,7 +6688,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 93.98 54.61 0)
 			(effects
 				(font
@@ -6756,7 +6756,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 205.74 119.38 0)
 			(effects
 				(font
@@ -6824,7 +6824,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1.5U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB"
 			(at 80.01 76.2 0)
 			(effects
 				(font
@@ -6892,7 +6892,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-2U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_PCB"
 			(at 261.62 54.61 0)
 			(effects
 				(font
@@ -7048,7 +7048,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 247.65 140.97 0)
 			(effects
 				(font
@@ -7292,7 +7292,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 135.89 119.38 0)
 			(effects
 				(font
@@ -7360,7 +7360,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 205.74 54.61 0)
 			(effects
 				(font
@@ -7428,7 +7428,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 121.92 54.61 0)
 			(effects
 				(font
@@ -7584,7 +7584,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 219.71 97.79 0)
 			(effects
 				(font
@@ -7652,7 +7652,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 275.59 76.2 0)
 			(effects
 				(font
@@ -7808,7 +7808,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 233.68 119.38 0)
 			(effects
 				(font
@@ -7876,7 +7876,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 205.74 140.97 0)
 			(effects
 				(font
@@ -8032,7 +8032,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 149.86 97.79 0)
 			(effects
 				(font
@@ -8276,7 +8276,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 261.62 140.97 0)
 			(effects
 				(font
@@ -8696,7 +8696,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 219.71 76.2 0)
 			(effects
 				(font
@@ -8852,7 +8852,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 93.98 97.79 0)
 			(effects
 				(font
@@ -8920,7 +8920,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 107.95 76.2 0)
 			(effects
 				(font
@@ -8988,7 +8988,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 107.95 97.79 0)
 			(effects
 				(font
@@ -9056,7 +9056,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 80.01 54.61 0)
 			(effects
 				(font
@@ -9124,7 +9124,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 247.65 76.2 0)
 			(effects
 				(font
@@ -9280,7 +9280,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 191.77 76.2 0)
 			(effects
 				(font
@@ -9348,7 +9348,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 233.68 140.97 0)
 			(effects
 				(font
@@ -9504,7 +9504,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 177.8 76.2 0)
 			(effects
 				(font
@@ -9572,7 +9572,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 163.83 54.61 0)
 			(effects
 				(font
@@ -9728,7 +9728,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 275.59 97.79 0)
 			(effects
 				(font
@@ -9796,7 +9796,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 149.86 54.61 0)
 			(effects
 				(font
@@ -9952,7 +9952,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 107.95 54.61 0)
 			(effects
 				(font
@@ -10108,7 +10108,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 107.95 119.38 0)
 			(effects
 				(font
@@ -10352,7 +10352,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-ISO"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_ISOEnter_PCB"
 			(at 261.62 76.2 0)
 			(effects
 				(font
@@ -10420,7 +10420,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 219.71 119.38 0)
 			(effects
 				(font
@@ -10488,7 +10488,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 177.8 97.79 0)
 			(effects
 				(font
@@ -10732,7 +10732,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 275.59 119.38 0)
 			(effects
 				(font
@@ -10976,7 +10976,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 177.8 54.61 0)
 			(effects
 				(font
@@ -11044,7 +11044,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1.25U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB"
 			(at 80.01 119.38 0)
 			(effects
 				(font
@@ -11112,7 +11112,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 219.71 54.61 0)
 			(effects
 				(font
@@ -11444,7 +11444,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 121.92 119.38 0)
 			(effects
 				(font
@@ -11688,7 +11688,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1.75U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_PCB"
 			(at 80.01 97.79 0)
 			(effects
 				(font
@@ -11844,7 +11844,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 261.62 119.38 0)
 			(effects
 				(font
@@ -12000,7 +12000,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 177.8 119.38 0)
 			(effects
 				(font
@@ -12156,7 +12156,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 135.89 76.2 0)
 			(effects
 				(font
@@ -12224,7 +12224,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 121.92 97.79 0)
 			(effects
 				(font
@@ -12908,7 +12908,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 191.77 119.38 0)
 			(effects
 				(font
@@ -13064,7 +13064,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 233.68 54.61 0)
 			(effects
 				(font
@@ -13132,7 +13132,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 149.86 119.38 0)
 			(effects
 				(font
@@ -13288,7 +13288,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 135.89 97.79 0)
 			(effects
 				(font
