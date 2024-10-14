@@ -40255,7 +40255,7 @@
 		(descr "ALPS 5.2mm Square Low-profile Type (Surface Mount) SKQG Series, With stem, http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKQG/SKQGAFE010.html")
 		(tags "SPST Button Switch")
 		(property "Reference" "SW2"
-			(at 0 3.6 360)
+			(at 0 3.6 0)
 			(layer "B.SilkS")
 			(uuid "1359647e-9e7a-43ca-8aee-ad94b68d3f4f")
 			(effects
@@ -40267,7 +40267,7 @@
 			)
 		)
 		(property "Value" "SW_Push_Reset"
-			(at 0 -3.6 360)
+			(at 0 -3.6 0)
 			(layer "B.Fab")
 			(uuid "5785161b-7144-43a6-86e9-15d363eeabed")
 			(effects
@@ -40616,7 +40616,7 @@
 			(uuid "463bc264-d5ee-4113-946e-0d51a29f20e6")
 		)
 		(fp_text user "KEEP-OUT ZONE"
-			(at 2.5 0.2 360)
+			(at 2.5 0.2 0)
 			(layer "Cmts.User")
 			(uuid "12abd23f-bfe1-4b2d-90d1-4c8ff7ddb7de")
 			(effects
@@ -40627,7 +40627,7 @@
 			)
 		)
 		(fp_text user "No F.Cu tracks"
-			(at 2.5 -0.2 360)
+			(at 2.5 -0.2 0)
 			(layer "Cmts.User")
 			(uuid "37f27435-0672-4ad2-adbe-f546a86ff3b9")
 			(effects
@@ -40638,7 +40638,7 @@
 			)
 		)
 		(fp_text user "No F.Cu tracks"
-			(at -2.5 -0.2 360)
+			(at -2.5 -0.2 0)
 			(layer "Cmts.User")
 			(uuid "53f18e5b-2405-454c-b196-4fe7a61ebe6a")
 			(effects
@@ -40649,7 +40649,7 @@
 			)
 		)
 		(fp_text user "KEEP-OUT ZONE"
-			(at -2.5 0.2 360)
+			(at -2.5 0.2 0)
 			(layer "Cmts.User")
 			(uuid "d36c775e-2a99-45b7-96ff-4e2b7b8b6ad8")
 			(effects
@@ -40660,7 +40660,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "9ff7ecfd-4c38-4bb2-af7a-e36455687baf")
 			(effects
@@ -49545,6 +49545,138 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "dd7f40e5-41d3-4b78-ae0e-511c2178c007")
+	)
+	(dimension
+		(type aligned)
+		(layer "F.Cu")
+		(uuid "0de49c40-667e-4348-b6d9-570fb2c86326")
+		(pts
+			(xy 65.072867 88.059867) (xy 65.024 185.928)
+		)
+		(height 14.277393)
+		(gr_text "97,8681 mm"
+			(at 48.971042 136.985906 89.97139079)
+			(layer "F.Cu")
+			(uuid "0de49c40-667e-4348-b6d9-570fb2c86326")
+			(effects
+				(font
+					(size 1.5 1.5)
+					(thickness 0.3)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.2)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "F.Cu")
+		(uuid "95978f33-7e77-44bb-8bd6-e7e16d457c9d")
+		(pts
+			(xy 61.770867 91.361867) (xy 367.665 91.313)
+		)
+		(height -26.867791)
+		(gr_text "305,8941 mm"
+			(at 214.713354 62.669642 0.009153265193)
+			(layer "F.Cu")
+			(uuid "95978f33-7e77-44bb-8bd6-e7e16d457c9d")
+			(effects
+				(font
+					(size 1.5 1.5)
+					(thickness 0.3)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.2)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "B.SilkS")
+		(uuid "18a9dd37-d940-423b-856e-ca5b19ba36b4")
+		(pts
+			(xy 75.692 82.423) (xy 61.849 82.423)
+		)
+		(height 12.7)
+		(gr_text "13,8430 mm"
+			(at 68.7705 68.623 0)
+			(layer "B.SilkS")
+			(uuid "18a9dd37-d940-423b-856e-ca5b19ba36b4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.1)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "B.SilkS")
+		(uuid "efe845fa-7e7a-4280-9fa9-7e7653c40dc1")
+		(pts
+			(xy 75.692 84.709) (xy 86.36 84.709)
+		)
+		(height -14.986)
+		(gr_text "10,6680 mm"
+			(at 81.026 68.623 0)
+			(layer "B.SilkS")
+			(uuid "efe845fa-7e7a-4280-9fa9-7e7653c40dc1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.1)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
 	)
 	(segment
 		(start 217.7541 163.8225)
