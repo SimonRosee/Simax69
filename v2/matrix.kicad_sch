@@ -499,12 +499,6 @@
 		(uuid "2f4c11b2-ed7b-4644-884f-a08577cc099d")
 	)
 	(junction
-		(at 280.67 81.28)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3064f5d0-cc44-4e12-9ae9-feb77eb9cb43")
-	)
-	(junction
 		(at 127 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -529,18 +523,6 @@
 		(uuid "3c811a94-a0a9-41b3-a877-cdff1421a6e6")
 	)
 	(junction
-		(at 256.54 88.9)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4197fbc0-2236-4d3b-ae2b-509b36450c84")
-	)
-	(junction
-		(at 242.57 110.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "42b82688-3cfc-455f-b741-27b6b37708d6")
-	)
-	(junction
 		(at 168.91 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -557,12 +539,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4902eca7-a064-4f87-aa6f-705a918517fc")
-	)
-	(junction
-		(at 280.67 124.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4ad63213-e2f4-4b2e-8797-6da36687e7d9")
 	)
 	(junction
 		(at 186.69 110.49)
@@ -679,12 +655,6 @@
 		(uuid "8254158a-d374-4075-a34e-5efd3971bde8")
 	)
 	(junction
-		(at 280.67 102.87)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "84cd812c-a2d4-407c-a4bc-31a1221f1704")
-	)
-	(junction
 		(at 266.7 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -719,12 +689,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "992ecd62-b1ab-4ca9-badd-06cb13cb1bfe")
-	)
-	(junction
-		(at 256.54 153.67)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9bb6847f-7501-4cbb-9e65-530fbab0cf23")
 	)
 	(junction
 		(at 210.82 59.69)
@@ -803,12 +767,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b4a9b56b-d5d7-4453-bf8c-48751b3ee3b5")
-	)
-	(junction
-		(at 256.54 132.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b5c09599-3c9f-4440-b231-a9f1c5461601")
 	)
 	(junction
 		(at 85.09 59.69)
@@ -1342,16 +1300,6 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 110.49) (xy 270.51 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3723b444-727b-4c42-b28d-4d2943f7ea74")
-	)
-	(wire
-		(pts
 			(xy 85.09 124.46) (xy 85.09 146.05)
 		)
 		(stroke
@@ -1612,16 +1560,6 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 153.67) (xy 270.51 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "72651f65-2197-409a-8d1d-b2f3413c7009")
-	)
-	(wire
-		(pts
 			(xy 182.88 102.87) (xy 182.88 124.46)
 		)
 		(stroke
@@ -1729,16 +1667,6 @@
 			(type default)
 		)
 		(uuid "87f3eb95-b017-4ea8-921d-f46ee27c0b83")
-	)
-	(wire
-		(pts
-			(xy 280.67 48.26) (xy 280.67 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8847a952-469c-4313-ada4-e15d016a7799")
 	)
 	(wire
 		(pts
@@ -2062,16 +1990,6 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 88.9) (xy 270.51 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c318cbf9-ffd7-4a6e-8b59-d4038d01ea39")
-	)
-	(wire
-		(pts
 			(xy 158.75 110.49) (xy 172.72 110.49)
 		)
 		(stroke
@@ -2099,16 +2017,6 @@
 			(type default)
 		)
 		(uuid "c546b86d-4a1e-4a8b-8e4a-168aee588db5")
-	)
-	(wire
-		(pts
-			(xy 280.67 102.87) (xy 280.67 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ca98c27f-bc45-409a-9970-c6ac034b7433")
 	)
 	(wire
 		(pts
@@ -2272,26 +2180,6 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 132.08) (xy 270.51 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e648ddb8-879c-4d25-8edc-5dea91018282")
-	)
-	(wire
-		(pts
-			(xy 280.67 124.46) (xy 280.67 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ec6e1727-0599-47e1-b703-0580a36bb609")
-	)
-	(wire
-		(pts
 			(xy 140.97 102.87) (xy 140.97 124.46)
 		)
 		(stroke
@@ -2329,16 +2217,6 @@
 			(type default)
 		)
 		(uuid "f7c1d7f9-505e-4c78-9565-71d59c58162e")
-	)
-	(wire
-		(pts
-			(xy 280.67 81.28) (xy 280.67 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f9601f20-0a9d-44fe-85d2-e4da9d9a3d56")
 	)
 	(wire
 		(pts
@@ -2701,28 +2579,6 @@
 		(uuid "e97150b1-3f98-4f91-8c3d-1ffe2a4f6b10")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 182.88 41.1625 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "col14"
-		(shape input)
-		(at 280.67 48.26 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "ef9f0f81-70b3-4628-b689-e9070c93f104")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 280.67 39.953 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3806,74 +3662,6 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 275.59 146.05 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "14b3b05c-35cf-4444-907c-b9c334806d2f")
-		(property "Reference" "SW70"
-			(at 275.59 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "KC_RIGHT"
-			(at 275.59 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-			(at 275.59 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "KC_RIGHT"
-			(at 275.59 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 275.59 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ea585a4c-0972-49a7-969b-cc150abf3c18")
-		)
-		(pin "1"
-			(uuid "5a769bc6-0e40-4206-916e-ce702ae03b2c")
-		)
-		(instances
-			(project "keeb2"
-				(path "/e34e3e91-96d6-4497-989c-d178be097a3d/966e0903-3cdb-4997-9f95-bb587a6bbb0d"
-					(reference "SW70")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
 		(at 219.71 146.05 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4111,94 +3899,6 @@
 			(project "keeb2"
 				(path "/e34e3e91-96d6-4497-989c-d178be097a3d/966e0903-3cdb-4997-9f95-bb587a6bbb0d"
 					(reference "D39")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 270.51 106.68 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "19b84ef2-46e8-4564-9294-49a71d7b2421")
-		(property "Reference" "D44"
-			(at 273.05 105.4099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 273.05 107.9499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 270.51 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 270.51 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 270.51 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 270.51 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 270.51 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "57456cf3-3cb0-4bfd-9c85-68bf6595dcdb")
-		)
-		(pin "1"
-			(uuid "9010b075-7860-408c-ad91-a5af623b01ca")
-		)
-		(instances
-			(project "keeb2"
-				(path "/e34e3e91-96d6-4497-989c-d178be097a3d/966e0903-3cdb-4997-9f95-bb587a6bbb0d"
-					(reference "D44")
 					(unit 1)
 				)
 			)
@@ -6166,94 +5866,6 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 270.51 149.86 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5311125f-b4ad-47e7-aec0-5daf677dc564")
-		(property "Reference" "D69"
-			(at 273.05 148.5899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 273.05 151.1299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 270.51 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 270.51 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 270.51 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 270.51 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 270.51 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "11cadfbb-4f77-4b10-812d-12f82621ff00")
-		)
-		(pin "1"
-			(uuid "530f7190-1be3-4cb9-a0b1-cfc20ee98743")
-		)
-		(instances
-			(project "keeb2"
-				(path "/e34e3e91-96d6-4497-989c-d178be097a3d/966e0903-3cdb-4997-9f95-bb587a6bbb0d"
-					(reference "D69")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
 		(at 88.9 63.5 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7631,74 +7243,6 @@
 			(project "keeb2"
 				(path "/e34e3e91-96d6-4497-989c-d178be097a3d/966e0903-3cdb-4997-9f95-bb587a6bbb0d"
 					(reference "SW41")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 275.59 81.28 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7bd67429-39c0-4183-ba45-0067be4f1732")
-		(property "Reference" "SW30"
-			(at 275.59 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "KC_DEL"
-			(at 275.59 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-			(at 275.59 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "KC_DEL"
-			(at 275.59 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 275.59 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e4b90545-285b-4961-a1b1-ceec1cce2d8f")
-		)
-		(pin "1"
-			(uuid "f4163902-28ef-48b4-a389-c22299c83887")
-		)
-		(instances
-			(project "keeb2"
-				(path "/e34e3e91-96d6-4497-989c-d178be097a3d/966e0903-3cdb-4997-9f95-bb587a6bbb0d"
-					(reference "SW30")
 					(unit 1)
 				)
 			)
@@ -9714,74 +9258,6 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 275.59 102.87 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a6aa7898-d2a2-4f51-b9d1-a4bb6a2217bd")
-		(property "Reference" "SW45"
-			(at 275.59 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "KC_PAGE_UP"
-			(at 275.59 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-			(at 275.59 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "KC_PAGE_UP"
-			(at 275.59 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 275.59 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "4e65c738-5f47-4184-b0c7-49a9df9d5223")
-		)
-		(pin "1"
-			(uuid "f6d64a2a-2779-44f7-8908-a042d72337b5")
-		)
-		(instances
-			(project "keeb2"
-				(path "/e34e3e91-96d6-4497-989c-d178be097a3d/966e0903-3cdb-4997-9f95-bb587a6bbb0d"
-					(reference "SW45")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
 		(at 149.86 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10711,74 +10187,6 @@
 			(project "keeb2"
 				(path "/e34e3e91-96d6-4497-989c-d178be097a3d/966e0903-3cdb-4997-9f95-bb587a6bbb0d"
 					(reference "D45")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 275.59 124.46 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c645b34e-683c-4b9f-ab2b-0d6d8ce4301f")
-		(property "Reference" "SW60"
-			(at 275.59 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "KC_PAGE_DOWN"
-			(at 275.59 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-			(at 275.59 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "KC_PAGE_DOWN"
-			(at 275.59 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 275.59 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "d9c9c986-2f2b-4a48-b074-201f7f0bd2af")
-		)
-		(pin "1"
-			(uuid "ccd264c3-2d4d-4295-9821-aa6cac9b2786")
-		)
-		(instances
-			(project "keeb2"
-				(path "/e34e3e91-96d6-4497-989c-d178be097a3d/966e0903-3cdb-4997-9f95-bb587a6bbb0d"
-					(reference "SW60")
 					(unit 1)
 				)
 			)
@@ -12447,182 +11855,6 @@
 			(project "keeb2"
 				(path "/e34e3e91-96d6-4497-989c-d178be097a3d/966e0903-3cdb-4997-9f95-bb587a6bbb0d"
 					(reference "D48")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 270.51 85.09 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e1cf324b-c772-4c1c-8ecd-b6d701dd0109")
-		(property "Reference" "D29"
-			(at 273.05 83.8199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 273.05 86.3599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 270.51 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 270.51 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 270.51 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 270.51 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 270.51 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "1abdf7b6-9396-4975-ba3a-2eba9ae6a943")
-		)
-		(pin "1"
-			(uuid "0f62ba56-1002-45b5-953e-a0684cedc2ba")
-		)
-		(instances
-			(project "keeb2"
-				(path "/e34e3e91-96d6-4497-989c-d178be097a3d/966e0903-3cdb-4997-9f95-bb587a6bbb0d"
-					(reference "D29")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 270.51 128.27 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e31eed51-3dae-413c-95b6-7810dee1a85f")
-		(property "Reference" "D59"
-			(at 273.05 126.9999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 273.05 129.5399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 270.51 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 270.51 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 270.51 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 270.51 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 270.51 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "a26bdf71-a6cf-42b0-83e1-85a54fc0e5f1")
-		)
-		(pin "1"
-			(uuid "b2d8288d-f012-4f18-9023-13828c7611b9")
-		)
-		(instances
-			(project "keeb2"
-				(path "/e34e3e91-96d6-4497-989c-d178be097a3d/966e0903-3cdb-4997-9f95-bb587a6bbb0d"
-					(reference "D59")
 					(unit 1)
 				)
 			)
